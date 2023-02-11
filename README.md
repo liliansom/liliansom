@@ -3,8 +3,9 @@
 
 <h4 align="left">Welcome to my Github! </p>
 
-I'm Lilian and I'm currently learning Python, SQL, Power BI and other languages.<br>
-I have a nurse degree, but I want to start my Dev career.<br>
+Hi! I'm Lilian and I'm a Back-End Developer!<br>
+I use Python and SQL for program development and I have experience in developing CRUD applications with these technologies.<br>
+I graduated in Nursing from the University of São Paulo, which gave me skills in the areas of organization, communication and teamwork, resulting from my experience in the profession.<br>
 </h4>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liliansom&show_icons=true&locale=en&layout=compact" alt="liliansom" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liliansom&show_icons=true&locale=en" alt="liliansom" /></p>
