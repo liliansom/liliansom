@@ -16,12 +16,8 @@ I graduated in Nursing from the University of São Paulo, which gave me skills i
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-    <h5> Python </h5>
-        <li> Flask </li>
-        <li> Requests </li>
-        <li> Tkinter </li>
-        <li> Pyodbc </li>
-        <li> Pygame </li>
+    <h4> Python </h4>
+        <li> Bibliotecas: Flask, Requests, Tkinter, Pyodbc, Pygame, Pandas, Matplotlib </li>
     <h5> SQL Server </h5>
     <h5> Figma </h5>
     <h5> Html </h5>
