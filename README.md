@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Back-End Developer | Python| Power BI | SQL | Nurse</h3>
+<h3 align="left">Data Science | Python| Power BI | SQL | Nurse</h3>
 
 ###
 
