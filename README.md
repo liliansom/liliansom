@@ -6,7 +6,8 @@
 
 ###
 
-<p align="left">Welcome to my Github!<br>Hi! I'm Lilian and I'm a Back-End Developer!<br>I use Python and SQL for program development and I have experience in developing CRUD applications with these technologies.<br>I graduated in Nursing from the University of São Paulo, which gave me skills in the areas of organization, communication and teamwork, resulting from my experience in the profession.</p>
+<p align="left">Welcome to my Github!<br>Hi! I'm Lilian and I'm a Data Scientist!<br>I use Python and SQL for data processing and analysis. I also have experience in developing CRUD applications with these technologies.<br>
+I graduated in Nursing from the University of São Paulo, which gave me skills in the areas of organization, communication and teamwork, resulting from my experience in the profession.</p>
 
 ###
 
