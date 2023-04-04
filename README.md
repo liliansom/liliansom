@@ -2,12 +2,14 @@
 
 ###
 
-<h3 align="left">Data Science | Python| Power BI | SQL | Nurse</h3>
+<h3 align="left">Python| Power BI | SQL | Nurse</h3>
 
 ###
 
-<p align="left">Welcome to my Github!<br>Hi! I'm Lilian and I'm a Data Scientist!<br>I use Python and SQL for data processing and analysis. I also have experience in developing CRUD applications with these technologies.<br>
-I graduated in Nursing from the University of São Paulo, which gave me skills in the areas of organization, communication and teamwork, resulting from my experience in the profession.</p>
+<p align="left">Welcome to my Github!<br>Hi! I'm Lilian and I'm working with Data!<br>
+  I use Python, SQL and Power BI for data processing, analysis and manipulation.<br>
+  I also have experience in developing CRUD applications with these technologies.<br>
+  I graduated in Nursing from the University of São Paulo, which gave me skills in the areas of organization, communication and teamwork, resulting from my experience in the profession.</p>
 
 ###
 
