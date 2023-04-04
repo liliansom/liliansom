@@ -7,8 +7,9 @@
 ###
 
 <p align="left">Welcome to my Github!<br>Hi! I'm Lilian and I'm working with Data!<br>
-  I use Python, SQL and Power BI for data processing, analysis and manipulation.<br>
+  I have expertise in ETL, data analysis, data manipulation and data visualization with Python, SQL and Power BI.<br>
   I also have experience in developing CRUD applications with these technologies.<br>
+  I'm used to programming with Object-Oriented Programming (OOP).
   I graduated in Nursing from the University of São Paulo, which gave me skills in the areas of organization, communication and teamwork, resulting from my experience in the profession.</p>
 
 ###
