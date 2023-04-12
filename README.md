@@ -1,43 +1,15 @@
-<h1 align="left">Lilian Matsumoto</h1>
+<h3 align="left">Oi! Eu sou a Lilian Matsumoto!</h3>
+
+  <li> Analista de Dados</li>
+  <li> Atualmente, realizo projetos com Python, SQL e Power BI.</li>
+  <li> E-mail para contato: liliansmatsumoto@gmail.com</li>
+  <li> Eu adoro jogos, principalmente os jogos de tabuleiro ou console... e sou fã de desenhos japoneses (animes)!</li>
+  <li> Também adoro viajar, andar bicicleta e fazer trabalhos manuais!</li>
+</p>
 
 ###
 
-<h3 align="left">Python| Power BI | SQL | Nurse</h3>
-
-###
-
-<p align="left">Welcome to my Github!<br>Hi! I'm Lilian and I'm working with Data!<br>
-  I have expertise in ETL, data analysis, data manipulation and data visualization with Python, SQL and Power BI.<br>
-  I also have experience in developing CRUD applications with these technologies.<br>
-  I'm used to programming with Object-Oriented Programming (OOP).
-  I graduated in Nursing from the University of São Paulo, which gave me skills in the areas of organization, communication and teamwork, resulting from my experience in the profession.</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=liliansom" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=liliansom" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<p align="left">Languages and Tools:</p>
-
-###
-
-<div align="left">
-  Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  Flask <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" width="52" alt="flask logo"  />
-  Pandas <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
-  Numpy <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
-  Figma <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
-  Html5 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  SQL Server <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
-</div>
-
-###
-
-<p align="left">Connect with me:</p>
+<p align="left">Você também me encontra por aqui:</p>
 
 ###
 
@@ -48,6 +20,13 @@
   <a href="Lilian Matsumoto#0130" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=liliansom" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=liliansom" height="150" alt="languages graph"  />
 </div>
 
 ###
