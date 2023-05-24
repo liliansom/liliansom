@@ -1,6 +1,6 @@
 <h3 align="left">Oi! Eu sou a Lilian Matsumoto! </h3>
 
-  <li> 📈 Analista de Dados</li>
+  <li> 📈 Desenvolvedora Python | Data Science</li>
   <li> ⚙️ Atualmente, realizo projetos com utilizando as ferramentas: Python, SQL (SQL Server, MySQL, SQL Power Architect), Pentaho e Power BI.</li>
   <li> 📫 E-mail para contato: liliansmatsumoto@gmail.com</li>
   <li> ❤️ Eu adoro jogos, principalmente os jogos de tabuleiro ou console... e sou fã de desenhos japoneses (animes)!</li>
