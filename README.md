@@ -1,4 +1,4 @@
-<h3 align="left">Oi! Eu sou a Lilian Matsumoto!</h3>
+<h3 align="left">Oi! Eu sou a Lilian Matsumoto! </h3>
 
   <li> 📈 Analista de Dados</li>
   <li> ⚙️ Atualmente, realizo projetos com utilizando as ferramentas: Python, SQL (SQL Server, MySQL, SQL Power Architect), Pentaho e Power BI.</li>
